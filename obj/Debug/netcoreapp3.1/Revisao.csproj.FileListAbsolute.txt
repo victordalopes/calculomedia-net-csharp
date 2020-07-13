@@ -1,0 +1,13 @@
+C:\Documentos\Cursos\Fullstack Developer Banco Carrefour\Primeiros passos com .NET + #C\Meu\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+C:\Documentos\Cursos\Fullstack Developer Banco Carrefour\Primeiros passos com .NET + #C\Meu\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Documentos\Cursos\Fullstack Developer Banco Carrefour\Primeiros passos com .NET + #C\Meu\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Documentos\Cursos\Fullstack Developer Banco Carrefour\Primeiros passos com .NET + #C\Meu\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Documentos\Cursos\Fullstack Developer Banco Carrefour\Primeiros passos com .NET + #C\Meu\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Documentos\Cursos\Fullstack Developer Banco Carrefour\Primeiros passos com .NET + #C\Meu\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Documentos\Cursos\Fullstack Developer Banco Carrefour\Primeiros passos com .NET + #C\Meu\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Documentos\Cursos\Fullstack Developer Banco Carrefour\Primeiros passos com .NET + #C\Meu\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Documentos\Cursos\Fullstack Developer Banco Carrefour\Primeiros passos com .NET + #C\Meu\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Documentos\Cursos\Fullstack Developer Banco Carrefour\Primeiros passos com .NET + #C\Meu\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Documentos\Cursos\Fullstack Developer Banco Carrefour\Primeiros passos com .NET + #C\Meu\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Documentos\Cursos\Fullstack Developer Banco Carrefour\Primeiros passos com .NET + #C\Meu\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+C:\Documentos\Cursos\Fullstack Developer Banco Carrefour\Primeiros passos com .NET + #C\Meu\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache
